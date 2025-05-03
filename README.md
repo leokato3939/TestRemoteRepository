@@ -2,3 +2,4 @@
 
 Hello,Sekai
 ハロー、セカイ
+Goodbye
